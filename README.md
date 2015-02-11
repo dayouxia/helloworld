@@ -1,5 +1,5 @@
 # helloworld
 ##liuchao
-*data
-*science
-*coursera
+*data\n
+*science\n
+*coursera\n
